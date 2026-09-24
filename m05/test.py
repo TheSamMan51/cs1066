@@ -1,2 +1,2 @@
-# Not so original file anymore
+# Original file
 print("What was given.")
